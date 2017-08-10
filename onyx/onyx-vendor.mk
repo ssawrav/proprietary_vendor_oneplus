@@ -18,6 +18,7 @@
 PRODUCT_COPY_FILES += \
     vendor/oneplus/onyx/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/oneplus/onyx/proprietary/bin/btnvtool:system/bin/btnvtool \
+    vendor/oneplus/onyx/proprietary/bin/charger_monitor:system/bin/charger_monitor \
     vendor/oneplus/onyx/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/oneplus/onyx/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/oneplus/onyx/proprietary/bin/loc_launcher:system/bin/loc_launcher \
