@@ -53,6 +53,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/onyx/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/oneplus/onyx/proprietary/lib/libFNVfbEngineLib.so:system/lib/libFNVfbEngineLib.so \
     vendor/oneplus/onyx/proprietary/lib/libopcamerahw_interface.so:system/lib/libopcamerahw_interface.so \
+    vendor/oneplus/onyx/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
     vendor/oneplus/onyx/proprietary/lib/libparam.so:system/lib/libparam.so \
     vendor/oneplus/onyx/proprietary/lib/libwcnss_qmi.so:system/lib/libwcnss_qmi.so \
     vendor/oneplus/onyx/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
