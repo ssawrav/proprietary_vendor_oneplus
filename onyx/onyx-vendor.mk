@@ -242,4 +242,5 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     ConnectivityExt \
     qcnvitems \
-    qcrilhook
+    qcrilhook \
+    vendor.qti.hardware.fm@1.0
